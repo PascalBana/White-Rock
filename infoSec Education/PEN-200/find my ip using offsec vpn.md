@@ -1,0 +1,1 @@
+use 'ifconfig' in terminal, should be the one called tun0, if not turn offsecvpn on and off to check which entry appears and disappears... your welcome 

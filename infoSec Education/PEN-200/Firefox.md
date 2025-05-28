@@ -1,0 +1,1 @@
+ctrl + L : auto focuses the url, very useful

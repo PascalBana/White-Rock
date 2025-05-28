@@ -1,0 +1,3 @@
+An adapter card (also known as an expansion card) is simply a circuit board you install into a computer **to increase the capabilities of that computer**. Adapter cards come in varying formats for different uses, but the important thing to note is that no matter what function a card has, the card being installed must match the bus type of the motherboard you are installing it into. For example, you can only install a PCI network card into a PCI expansion slot.
+
+For today's integrated components, you might not need an adapter to achieve the related services, but you will still need to install drivers to make the integrated devices function with the operating system.
