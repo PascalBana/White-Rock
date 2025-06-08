@@ -152,36 +152,12 @@
             }
           },
           {
-            "id": "942ff278ed919e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "infoSec Education/SQL Injection.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SQL Injection"
-            }
-          },
-          {
             "id": "190731cd290236ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nmap scripting engine.md",
+                "file": "infoSec Education/TTT/PSRemoting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +172,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nmap scripting engine"
+              "title": "PSRemoting"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
+      },
+      {
+        "id": "65e20d778d33b5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942ff278ed919e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerView Enumeration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PowerView Enumeration"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -360,6 +366,15 @@
   },
   "active": "190731cd290236ff",
   "lastOpenFiles": [
+    "PowerView Enumeration.md",
+    "infoSec Education/TTT/PSRemoting.md",
+    "Nmap scripting engine.md",
+    "infoSec Education/TTT/Chisel.md",
+    "windows places to look.md",
+    "Bloodhound.md",
+    "PowerView Enumeration Mind Map.canvas",
+    "Active Directory Enumeration.md",
+    "infoSec Education/TTT/Active Directory.md",
     "Init Test.canvas",
     "port map.md",
     "SMTP.md",
@@ -382,14 +397,7 @@
     "bug_bounty/recon",
     "bug_bounty",
     "hydra.md",
-    "hashcat.md",
-    "infoSec Education/Storybook/new machine.md",
     "Pasted image 20250508092538.png",
-    "infoSec Education/TTT/SMB.md",
-    "infoSec Education/TTT/netcat.md",
-    "infoSec Education/TTT/Hash cracking.md",
-    "password breaking.md",
-    "infoSec Education/TTT/NSlookup.md",
     "infoSec Education/Storybook",
     "infoSec Education/TTT",
     "Rusty Canvas.canvas",

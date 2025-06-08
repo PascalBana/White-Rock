@@ -94,7 +94,10 @@ To search the whole machine for a file suffix
 ```
 Get-ChildItem -Path C:\ -Include *.<suffix here> -File -Recurse -ErrorAction SilentlyContinue
 ```
-
+Suffixes to try:
+txt
+ini
+settings
 
 
 Someone please write something on RUNAS for the sake of everything it's how you execute as a different user

@@ -1,3 +1,5 @@
+!!! Not Allowed on OSCP !!!
+
 eventually a thorough guide of all tags as well as a getting started on how to use this tool needs to be added to this article.
 
 
